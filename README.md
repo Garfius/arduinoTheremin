@@ -4,7 +4,7 @@ Testejat en Arduino Nano, pins amb interrupció hardware requerits.
 Considerar estudi d'ús d'entrades/sortides programables de rp2040.
 
 -----ENG-----
-Basic operation apparently correct. Sensors mounted at about ~80 degrees, without a filter produces an unpleasant sound, due to the obvious and curious relationship between the two hands.
+Basic operation apparently correct. Sensors mounted at about ~80 degrees, without a filter produces an unpleasant sound, also the relationship between the two hands is kinda intreresting.
 Tested on Arduino Nano, pins with hardware interrupt required.
 Consider study using rp2040 programmable inputs/outputs.
 
